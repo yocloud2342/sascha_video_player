@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="sascha_video_player.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="21"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="sasplayer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="35"/>
+        <CursorPos X="31" Y="54"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="7" HistoryIndex="6">
+      <Position1>
+        <Filename Value="sasplayer.pas"/>
+      </Position1>
+      <Position2>
+        <Filename Value="sasplayer.pas"/>
+        <Caret Line="40" Column="22" TopLine="18"/>
+      </Position2>
+      <Position3>
+        <Filename Value="sasplayer.pas"/>
+        <Caret Line="41" Column="3" TopLine="18"/>
+      </Position3>
+      <Position4>
+        <Filename Value="sasplayer.pas"/>
+        <Caret Line="47" Column="19" TopLine="25"/>
+      </Position4>
+      <Position5>
+        <Filename Value="sasplayer.pas"/>
+        <Caret Line="55" Column="7" TopLine="30"/>
+      </Position5>
+      <Position6>
+        <Filename Value="sasplayer.pas"/>
+        <Caret Line="52" Column="6" TopLine="34"/>
+      </Position6>
+      <Position7>
+        <Filename Value="sasplayer.pas"/>
+        <Caret Line="53" Column="31" TopLine="34"/>
+      </Position7>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
